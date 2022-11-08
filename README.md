@@ -3,7 +3,7 @@
 <p>The purpose of this application is to assemble the functionality that allows users to add, edit, and delete the decks of flashcards that could help to study and manage the subjects.
 </p>
 
-<h2>Flashcard Screen(./src/Layout/</h2>
+<h2>Flashcard Screen(./src/Layout/)</h2>
 <h4>Screen(Path)<br>Description</h4>
 <ul>
         <li>Home(/).<br>Shows a list of decks with options to create, study, view, or delete a deck.</li>
